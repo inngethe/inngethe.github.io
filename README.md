@@ -4,8 +4,6 @@
 [![](https://img.shields.io/github/followers/espadrine.svg?label=Follow&style=social)](https://github.com/gatarelib)
 [![](https://img.shields.io/twitter/follow/espadrine.svg?label=Follow&style=social)](https://twitter.com/LibereGatare)
 # Portfolio
- ![Preview](images/lio.png)
- ![Preview_2](images/lio2.png)
 
 ## What is it?
 
